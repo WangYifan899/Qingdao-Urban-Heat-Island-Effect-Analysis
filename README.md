@@ -7,7 +7,7 @@ This is an interactive urban heat island (UHI) analysis system developed on Goog
 - User-friendly web interface allows complex analysis with simple clicks
 ## How to Use
 1. Access the application link:
-   - https://xenon-crossbar-483711-h3.projects.earthengine.app/view/qingdao-urban-heat-island-analysis-tool
+   - https://xenon-crossbar-483711-h3.projects.earthengine.app/view/qingdao-urban-heat-island-analysis
 2. Click the "Run UHI Analysis" button, the system will automatically
 3. Click the "LST" "NBVI" "NDVI"buttons to display temperature,vegetabtion,and built—up layers
 4. After analysis completion, click the corresponding buttons to downloadClick the corresponding export buttons to download the GeoTIFF image or CSV statistical results
