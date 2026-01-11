@@ -18,4 +18,4 @@ This is an interactive urban heat island (UHI) analysis system developed on Goog
 - GIS Tools: QGIS, ArcGIS, etc. for subsequent data analysis
 ## Code Access
 GEE Script Link:
-- https://code.earthengine.google.com/96375b9e1cf4e9e0f775b64f4361a7c2
+- https://code.earthengine.google.com/08ba05e383ccd74384f9618c54f5ec59
